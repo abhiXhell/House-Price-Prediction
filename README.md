@@ -1,2 +1,9 @@
-# House-Price-Prediction
-A machine learning model based on Linear Regression to predict house prices based on various factors in Bangalore.
+# House Price Prediction 🏡
+
+This project is a machine learning model that predicts house prices in Bangalore based on several factors like location, size, and number of bedrooms.
+## Installation
+Clone the repository and install the dependencies:
+```bash
+git clone https://github.com/abhiXhell/House-Price-Prediction.git
+cd House-Price-Prediction
+pip install -r requirements.txt
