@@ -1,0 +1,7 @@
+Following things are required for this project:
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+ipywidgets
